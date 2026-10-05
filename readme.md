@@ -34,8 +34,8 @@ Além das informações atuais, o sistema mantém um histórico de movimentaçõ
 O sistema acompanha a peça através das seguintes etapas:
 
 - EM DESENVOLVIMENTO
--    NO ESTOQUE
--     EMBALADA
+- NO ESTOQUE
+- EMBALADA
 - AGUARDANDO SAÍDA
 - SAIU PARA ENTREGA
 
@@ -176,17 +176,17 @@ Deploy
 
 Uma estrutura simplificada do projeto:
 
-NewGlass/
-│
-├── index.html
-├── painel.html
-│
-├── css/
-│   └── painel.css
-│
-├── js/
-│   └── painel.js
-│
+NewGlass/<br>
+│<br>
+├── index.html<br>
+├── painel.html<br>
+│<br>
+├── css/<br>
+│   └── painel.css<br>
+│<br>
+├── js/<br>
+│   └── painel.js<br>
+│<br>
 └── README.md
 
 A estrutura pode variar conforme a organização atual do projeto.
