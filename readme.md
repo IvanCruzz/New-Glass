@@ -35,7 +35,7 @@ O sistema acompanha a peça através das seguintes etapas:
 
 - EM DESENVOLVIMENTO
 -    NO ESTOQUE
--      EMBALADA
+-     EMBALADA
 - AGUARDANDO SAÍDA
 - SAIU PARA ENTREGA
 
