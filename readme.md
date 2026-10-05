@@ -34,13 +34,9 @@ Além das informações atuais, o sistema mantém um histórico de movimentaçõ
 O sistema acompanha a peça através das seguintes etapas:
 
 - EM DESENVOLVIMENTO
--         ↓
 -    NO ESTOQUE
--         ↓
 -      EMBALADA
--         ↓
 - AGUARDANDO SAÍDA
--         ↓
 - SAIU PARA ENTREGA
 
 Cada mudança importante é registrada no histórico da peça.
